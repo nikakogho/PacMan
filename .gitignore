@@ -1,0 +1,10 @@
+.vs/
+
+packages/**/*
+!packages/repositories.config
+
+*/bin/
+*/obj/
+
+*/x64/
+*/x86/
